@@ -1,3 +1,4 @@
+  
 *.aux
 *.fdb_latexmk
 *.fls
@@ -16,8 +17,6 @@
 .Rproj.user/
 cache/
 docs/
-
-slides/*/slides*.pdf
 
 exercise_*.pdf
 exercise_*.tex
